@@ -12,3 +12,8 @@ Two kinds of parameters:
 
 **output/return parameters**
 * primarily return multiple values from a function, but not recommended since they cause confusion.
+
+### Return Function Technique
+Parameters let us give input to our functions; `return` gives us output.
+* Whatever is immediately after `return` becomes the output of our function.
+* All Functions Return SOMETHING, but if you don't explicitly return, JS returns `undefined` for you.
