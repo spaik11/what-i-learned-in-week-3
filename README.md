@@ -17,3 +17,10 @@ Two kinds of parameters:
 Parameters let us give input to our functions; `return` gives us output.
 * Whatever is immediately after `return` becomes the output of our function.
 * All Functions Return SOMETHING, but if you don't explicitly return, JS returns `undefined` for you.
+
+### Return Of The String
+This exercise was a great opportunity to practice different ways we use `strings` in a function. I liked how there were different ways to come up with the solution.
+* Challenges:
+  * Using other functions within the function, keeping in mind the original parameters.
+  * Concatenating a function and being able to return the initials using the `indexOf` syntax.
+
